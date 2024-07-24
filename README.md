@@ -1,2 +1,3 @@
 # Apanacollage-demo
-This is my first Git Repository
+This is my first Git Repository.
+Athor-Prasad Agalave.
